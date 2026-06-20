@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akitalife
+- 👋 Hi, I’m the founder of Orbhue.
 - 👀 I’m interested in - ai generated art, content, websites, videos, graphics, models and tools.
 - 🌱 I’m currently learning how to train my own ai tools
 
