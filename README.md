@@ -1,6 +1,6 @@
 - 👋 Hi, I’m the founder of Orbhue.
-- 👀 I’m interested in - ai generated art, content, websites, videos, graphics, models and tools.
-- 🌱 I’m currently learning how to train my own ai tools
+- 👀 I’m interested in - ai, content, websites, videos, graphics, models and tools.
+- 🌱 I’m currently learning how to train my own ai tools even better!
 
 - 📫 How to reach me - here!
 - 😄 Pronouns: - come on, im just a guy and i dont do feelings so lets leave the "pronouns" there.
